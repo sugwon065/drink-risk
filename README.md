@@ -4,8 +4,8 @@
 
 ## 결과물
 
-- [분석 결과 보고서](./psm_project_sugwoncho_clean.html)
-- [코드](./code-version.html)
+- [분석 결과 보고서 바로 열기](https://sugwon065.github.io/drink-risk/)
+- [코드](https://sugwon065.github.io/drink-risk/code-version.html)
 
 ## 주요 내용
 
@@ -14,4 +14,3 @@
 - 공변량 균형 점검
 - 평균 처치 효과(ATE) 추정
 - Bootstrap을 사용한 분산 및 신뢰구간 추정
-
