@@ -4,7 +4,7 @@
 
 ## 결과물
 
-- [분석 결과 보고서 바로 열기](https://sugwon065.github.io/drink-risk/)
+- [결과 보고서 ](https://sugwon065.github.io/drink-risk/)
 - [코드](https://sugwon065.github.io/drink-risk/code-version.html)
 
 ## 주요 내용
