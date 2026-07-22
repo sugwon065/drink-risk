@@ -5,7 +5,7 @@
 ## 결과물
 
 - [분석 결과 보고서](./psm_project_sugwoncho_clean.html)
-- [코드 포함 버전](./code-version.html)
+- [코드](./code-version.html)
 
 ## 주요 내용
 
